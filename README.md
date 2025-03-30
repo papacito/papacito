@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=papacito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papacito&layout=compact)
 
 <!--
 - 🔭 I’m currently working on ...
