@@ -1,4 +1,10 @@
-## Hi there 👋
+Software Architect · AI-Native Product Builder
+
+Building and operating independent software products, from concept to production
+
+Java · .NET · AWS · AI-assisted engineering
+
+Founder of Mikers
 
 <!--
 
